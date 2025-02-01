@@ -1,6 +1,6 @@
 ## Project Contributor
-- Name Goes here
-- Martic Number goes Here
+- NAME: DANTSOHO AYMAN MUHAMMAD
+- MATRIC NUMBER: U23PE1009
 
 ## Getting Started
 
